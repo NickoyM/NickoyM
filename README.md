@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil! 😎
 
  <div>
-   <a href="https://github.com/NickoyM">
+   <a href="https://https://github.com/NickoyM">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickoyM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickoyM&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Aqui estão minhas outras Redes Socias. Eu sei que ainda não tem muita coisa, mas conforme eu evoluir eu atualizo por aqui 😅
+### Aqui estão minhas outras Redes Socias. Eu sei que ainda não tem muita coisa, mas conforme eu evoluir, atualizo por aqui 😅
  
 <div> 
 
