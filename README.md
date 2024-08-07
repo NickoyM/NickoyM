@@ -20,18 +20,16 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.gifer.com/WG8V.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"/>
+
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NickoyM&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NickoyM&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/> <br>
+  
   <img src="https://streak-stats.demolab.com?user=NickoyM&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="167" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/NickoyM/NickoyM/output/snake.svg" alt="Snake animation" />
 
 ###
 
